@@ -3,7 +3,10 @@
 <p align="center"><img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/127142444_1292068024474820_2603593254457549792_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=lNfmQJfCcfsAX8gUG9A&_nc_ht=scontent-sea1-1.xx&oh=3c479f78bd67447aba87782e3e0b6fe8&oe=5FEEA4FC" width="200" alt="Агеев Дмитрий"></p>
 
 ### *"Есть всего две бесконечные вещи - Вселенная и изучение JavaScript. Хотя насчет вселенной я не уверен",* - кажется, Альберт Эйнштейн что-то такое говорил)
-    Alt-H1
+   
+Alt-H1
+------ 
+
     
 
 ## Функции, объекты JS: определение и вызов.
