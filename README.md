@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/127142444_1292068024474820_2603593254457549792_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=lNfmQJfCcfsAX8gUG9A&_nc_ht=scontent-sea1-1.xx&oh=3c479f78bd67447aba87782e3e0b6fe8&oe=5FEEA4FC" width="200" alt="Агеев Дмитрий"></p>
 
-<p align="center"><img src="https://3.downloader.disk.yandex.by/preview/beb2423ae53c8367d53eb5e1df00fe7576ed5b95529a0692329f1ce9b3132ec3/inf/jMMwpLbQqnQ1SGJiIJEiLLhFCdEunIWU4y3NwmcPX-KTNuqgyD8ZVypJQ4C-hH8tzCS_hc4N2o0_F3JW_7JU9A%3D%3D?uid=473319464&filename=JS%3DInfinity.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=473319464&tknv=v2&size=2538x1302" width="1200" alt="JS"></p>
+<p align="center"><img src="https://previews.dropbox.com/p/thumb/ABBaPbMkWYuvjGsyQgvWRncnGCjRUD7uKpP6I2Sk36s6CClv-CmYB3qEEF26oo6Y3UjL1MPnK50s7dowMPn1xmMy1w4UpMHSbX2qpg5-EGw91gTCBTt155laiQMPdPpzTd6cXdDah9zU7eFjVRKeNjbI8MTcXC9w9lAc74o2VTC2WQTg3m_UCvE8TC1IQMhz3x_nR-DSP3nPHb_ncdTb04_CDuw9di4SehJ8w1irT9MLNEfpvx6BiT75bvx7Ls2mcK_-DW_AHhZ2LdJOLZApXSGUpGHjkbqAA5GFj2xg0Y3Y5GS3YJLa4ldmV34fwuh67GF3LHHBavjvXQbEY4vVfXCeAuPbohZWXcG-g3pDQi5O5g/p.png?fv_content=true&size_mode=5" width="1200" alt="JS"></p>
     
     
 
